@@ -25,7 +25,7 @@ bool get_back_to_menu;
 
 float BMI (float weight, float height)
 {
-    float results = (weight)/(height*height);
+    float results = ((weight)/(height*height))*10000;
 
     return results;
 }
