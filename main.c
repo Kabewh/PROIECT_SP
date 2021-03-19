@@ -170,7 +170,4 @@ int main()
     return 0;
 }
 
-// aduga si un counter care o sa fie ID
-
-
 
